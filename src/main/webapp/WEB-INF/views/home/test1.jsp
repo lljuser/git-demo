@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-this is develop push to remote develop
+this is develop push to develop
 </body>
 </html>
